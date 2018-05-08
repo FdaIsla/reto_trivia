@@ -1,0 +1,61 @@
+
+body {
+  background: #FFFACD;
+  width: 100%;
+  margin:5px;
+
+}
+
+
+h1 {
+  font-family:Tahoma;
+  font-size:50px;
+  color: #373737;
+  text-align:center;
+
+}
+
+
+h2 {
+  font-family:VAG Rounded;
+  font-size:20px;
+  font-style:italic;
+  color: #373737;
+  text-align:center;
+  font-weight:normal;
+}
+
+
+table {
+  width: 70%;
+  margin:auto;
+  border:1px;
+  text-align:center;
+  font-size:90%;
+  font-family:Tahoma;
+  background: #F9E79F;
+  color: #373737;
+  font-weight:normal;
+}
+
+ table th {
+  border: 1px;
+  padding:20px;
+  background:#EBC241;
+}
+
+table tr {
+  border: 1px;
+  padding:20px;
+  background:#FEFCEF;
+}
+
+div img {
+  width:700px;
+  height:auto;
+  margin:auto;
+  margin-top: 10px;
+  display:block;
+  padding: 50px
+
+}
